@@ -7,3 +7,6 @@ public:
     int data;
     Node *next;
 };
+
+// stack class
+class stack
