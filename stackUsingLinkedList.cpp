@@ -60,4 +60,5 @@ public:
         }
     }
 
+       bool isEmpty()
 }
