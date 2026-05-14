@@ -67,3 +67,6 @@ public:
 };
 
 int main()
+{
+    stack stack;
+}
