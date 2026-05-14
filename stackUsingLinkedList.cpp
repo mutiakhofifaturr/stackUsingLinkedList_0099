@@ -28,4 +28,6 @@ public:
         cout << "Push value: " << value << endl;
         return value;
     }
+
+     void pop()
 }
